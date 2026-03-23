@@ -1,0 +1,10 @@
+baseURL = "https://sisy.guru/"
+languageCode = "en-us"
+title = "SISY.guru - Mentoring Marketplace for Women Experts"
+
+[params]
+  description = "Learn from women who've been there. Find a mentor, book a session, and grow your expert visibility with guidance from women who know the path."
+  tagline = "Learn from women who've been there."
+
+[markup.goldmark.renderer]
+  unsafe = true
